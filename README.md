@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi, I'm Yonach 👋
 
+Mechanical Engineering student
+
+Interested in:
+- Git
+- Python
+- Arduino
+- CAD
 <!--
 **jonasha0908/jonasha0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
